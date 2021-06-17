@@ -1,0 +1,38 @@
+{
+    "skills" : [
+        
+        {
+            "id" : 1,
+            "skill" : "c-language",
+            "Rating" : 0.245867
+        },
+
+        {
+            "id" : 2,
+            "skill" : "c++",
+            "Rating" : 0.2876484
+        },
+
+        {
+            "id" : 3,
+            "skill" : "Html5",
+            "Rating" : 0.2457869
+        },
+
+        {
+            "id" : 4,
+            "skill" : "css3",
+            "Rating" : 0.287684
+        },
+
+        {
+            "id" : 5,
+            "skill" : "Javascript",
+            "Rating" : 0.2674584
+        }
+
+
+
+
+    ]
+}
